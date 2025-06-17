@@ -1,0 +1,18 @@
+# Firebase Configuration Template
+# Copy this file to app_config.txt and fill in actual values
+# Do not commit app_config.txt to version control
+
+# FCM Server Key from Firebase Console > Project Settings > Cloud Messaging
+fcm_server_key=YOUR_FCM_SERVER_KEY_HERE
+
+# Firebase API Key from Firebase Console > Project Settings > General
+firebase_api_key=YOUR_FIREBASE_API_KEY_HERE
+
+# Firebase Project ID
+project_id=your-firebase-project-id
+
+# Additional configuration can be added here as needed
+
+fcm_server_key=AAAA1234567890_your_actual_fcm_server_key_here
+firebase_api_key=AIzaSyC_your_actual_firebase_api_key_here
+rrh-1-d7847

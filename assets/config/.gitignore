@@ -1,0 +1,23 @@
+# Ignore all config files with sensitive data
+app_config.txt
+
+# Ignore any key files
+*.key
+*.secret
+
+# Ignore environment-specific configs
+app_config.dev.txt
+app_config.prod.txt
+app_config.staging.txt
+
+# Ignore any encrypted config files
+*.enc
+*.encrypted
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Allow template files (these can be committed safely)
+!*.template.txt
+!*.example.txt
